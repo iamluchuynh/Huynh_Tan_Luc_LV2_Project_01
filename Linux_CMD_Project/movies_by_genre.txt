@@ -1,0 +1,22 @@
+Thống kê số lượng phim theo thể loại:
+   4761 Drama
+   3793 Comedy
+   2908 Thriller
+   2385 Action
+   1712 Romance
+   1637 Horror
+   1471 Adventure
+   1355 Crime
+   1231 Family
+   1230 Science Fiction
+    916 Fantasy
+    810 Mystery
+    699 Animation
+    520 Documentary
+    408 Music
+    334 History
+    270 War
+    188 Foreign
+    167 TV Movie
+    165 Western
+      1 genres

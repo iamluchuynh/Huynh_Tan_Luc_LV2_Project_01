@@ -1,0 +1,2 @@
+Highest revenue movie: Avatar,2781505847
+Lowest revenue movie: Wild Card,0
